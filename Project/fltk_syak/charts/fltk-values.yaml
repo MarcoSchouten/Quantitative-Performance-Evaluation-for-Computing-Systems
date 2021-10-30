@@ -1,0 +1,6 @@
+fltk:
+    config: cloud_experiment.yaml
+provider:
+    domain: gcr.io
+    projectName: cs4215-325512
+    imageName: fltk:latest

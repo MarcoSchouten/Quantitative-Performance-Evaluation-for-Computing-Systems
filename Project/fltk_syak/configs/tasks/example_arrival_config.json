@@ -1,0 +1,33 @@
+[
+    {
+        "jobClassParameters": [
+            {
+                "networkConfiguration": {
+                    "network": "FashionMNISTCNN",
+                    "dataset": "FashionMNIST"
+                },
+                "systemParameters": {
+                    "dataParallelism": "3",
+                    "executorCores": "3",
+                    "executorMemory": "1Gi",
+                    "action": "train"
+                },
+                "hyperParameters": {
+                    "batchSize": "256",
+                    "maxEpoch": "12",
+                    "learningRate": "0.01",
+                    "learningrateDecay": "0.0002"
+                },
+                "classProbability": 0.1,
+                "priorities": [
+                    {
+                        "priority": 1,
+                        "probability": 1
+                    }
+                ]
+            }
+        ],
+        "lambda": 20,
+        "preemptJobs": 0
+    }
+]
