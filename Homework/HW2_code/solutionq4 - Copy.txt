@@ -1,0 +1,17 @@
+1) E[Nq] / E[N]
+
+2) E[Tq]
+
+
+
+1) compute Pq
+2) formula page 288
+ E[Nq] = Pq * rho /1-rho
+
+ E[N] = Pq * rho /1-rho  +k rho
+
+
+
+
+compuite (1) and (2) for each of those K
+then plot the trend and comment.

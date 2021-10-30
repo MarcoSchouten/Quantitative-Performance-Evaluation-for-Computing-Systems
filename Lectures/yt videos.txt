@@ -1,0 +1,9 @@
+--One-way ANOVA Formula:  https://www.youtube.com/watch?v=fFnOD7KBSbw
+
+--One-way ANOVA Confidence Interval https://www.youtube.com/watch?v=kO8t_q-AXHE
+
+--One-way  p-value: https://www.youtube.com/watch?v=XdZ7BRqznSA
+
+--Two-way ANOVA https://www.youtube.com/watch?v=lZFmFuZGQTk
+
+--Two-way ANOVA interpretation https://www.youtube.com/watch?v=ajLdnsLPErE

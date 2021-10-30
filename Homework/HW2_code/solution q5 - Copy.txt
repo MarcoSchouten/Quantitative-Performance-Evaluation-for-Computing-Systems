@@ -1,0 +1,22 @@
+
+
+GENERAL CTMC SOLUTION
+
+1) DRAW ctmc
+
+2) read ctmc and write Q 
+
+3)to find PI you need to solve 
+PI * Q = 0
+SUM PI= 1
+
+4) E[N] = 2* PI +1 *PI....  expectation of discrete r.v.
+
+5) little's law
+E[T] = E[N] / LAMBDA
+
+5.2632 FOR PART 1
+
+2.6316 FOR PART 2
+
+
